@@ -4,7 +4,8 @@ import Container from "tohsaka888-word-cloud";
 import font from "./font.ttf";
 import Header from "./components/Header";
 import { LangContext } from "./Context/LangContext";
-import { useColorMode } from "@chakra-ui/react";
+import { Flex, useColorMode } from "@chakra-ui/react";
+import useScreenSize from "./components/hooks/useScreenSize/useScreenSize";
 
 type ResponseData = { results: string[]; success: boolean };
 
@@ -22,19 +23,22 @@ function App() {
     };
     getProvinceName();
   }, [lang]);
+  const size = useScreenSize();
   return (
     <LangContext.Provider value={{ lang, setLang }}>
       <Header />
-      <Container
-        items={province}
-        type={"text"}
-        radius={20}
-        width="100%"
-        height="100vh"
-        color={colorMode === "light" ? "#666666" : "#fff"}
-        fontSize={1.2}
-        font={font}
-      />
+      <Flex justify={"center"}>
+        <Container
+          items={province}
+          type={"text"}
+          radius={20}
+          width={size.height - 60 + "px"}
+          height={size.height - 60 + "px"}
+          color={colorMode === "light" ? "#666666" : "#fff"}
+          fontSize={1.2}
+          font={font}
+        />
+      </Flex>
     </LangContext.Provider>
   );
 }
