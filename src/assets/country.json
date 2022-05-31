@@ -1,0 +1,1346 @@
+[
+  {
+    "enName": "Angola",
+    "zhName": "安哥拉",
+    "code": "AO",
+    "phoneCode": "244",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Afghanistan",
+    "zhName": "阿富汗",
+    "code": "AF",
+    "phoneCode": "93",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Albania",
+    "zhName": "阿尔巴尼亚",
+    "code": "AL",
+    "phoneCode": "355",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Algeria",
+    "zhName": "阿尔及利亚",
+    "code": "DZ",
+    "phoneCode": "213",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Andorra",
+    "zhName": "安道尔共和国",
+    "code": "AD",
+    "phoneCode": "376",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Anguilla",
+    "zhName": "安圭拉岛",
+    "code": "AI",
+    "phoneCode": "1264",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Antigua and Barbuda",
+    "zhName": "安提瓜和巴布达",
+    "code": "AG",
+    "phoneCode": "1268",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Argentina",
+    "zhName": "阿根廷",
+    "code": "AR",
+    "phoneCode": "54",
+    "timeRegion": "-11"
+  },
+  {
+    "enName": "Armenia",
+    "zhName": "亚美尼亚",
+    "code": "AM",
+    "phoneCode": "374",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Ascension",
+    "zhName": "阿森松",
+    "code": "",
+    "phoneCode": "247",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Australia",
+    "zhName": "澳大利亚",
+    "code": "AU",
+    "phoneCode": "61",
+    "timeRegion": "+2"
+  },
+  {
+    "enName": "Austria",
+    "zhName": "奥地利",
+    "code": "AT",
+    "phoneCode": "43",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Azerbaijan",
+    "zhName": "阿塞拜疆",
+    "code": "AZ",
+    "phoneCode": "994",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Bahamas",
+    "zhName": "巴哈马",
+    "code": "BS",
+    "phoneCode": "1242",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Bahrain",
+    "zhName": "巴林",
+    "code": "BH",
+    "phoneCode": "973",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Bangladesh",
+    "zhName": "孟加拉国",
+    "code": "BD",
+    "phoneCode": "880",
+    "timeRegion": "-2"
+  },
+  {
+    "enName": "Barbados",
+    "zhName": "巴巴多斯",
+    "code": "BB",
+    "phoneCode": "1246",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Belarus",
+    "zhName": "白俄罗斯",
+    "code": "BY",
+    "phoneCode": "375",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Belgium",
+    "zhName": "比利时",
+    "code": "BE",
+    "phoneCode": "32",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Belize",
+    "zhName": "伯利兹",
+    "code": "BZ",
+    "phoneCode": "501",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Benin",
+    "zhName": "贝宁",
+    "code": "BJ",
+    "phoneCode": "229",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Bermuda Is.",
+    "zhName": "百慕大群岛",
+    "code": "BM",
+    "phoneCode": "1441",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Bolivia",
+    "zhName": "玻利维亚",
+    "code": "BO",
+    "phoneCode": "591",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Botswana",
+    "zhName": "博茨瓦纳",
+    "code": "BW",
+    "phoneCode": "267",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Brazil",
+    "zhName": "巴西",
+    "code": "BR",
+    "phoneCode": "55",
+    "timeRegion": "-11"
+  },
+  {
+    "enName": "Brunei",
+    "zhName": "文莱",
+    "code": "BN",
+    "phoneCode": "673",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Bulgaria",
+    "zhName": "保加利亚",
+    "code": "BG",
+    "phoneCode": "359",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Burkina-faso",
+    "zhName": "布基纳法索",
+    "code": "BF",
+    "phoneCode": "226",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Burma",
+    "zhName": "缅甸",
+    "code": "MM",
+    "phoneCode": "95",
+    "timeRegion": "-1.3"
+  },
+  {
+    "enName": "Burundi",
+    "zhName": "布隆迪",
+    "code": "BI",
+    "phoneCode": "257",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Cameroon",
+    "zhName": "喀麦隆",
+    "code": "CM",
+    "phoneCode": "237",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Canada",
+    "zhName": "加拿大",
+    "code": "CA",
+    "phoneCode": "1",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Cayman Is.",
+    "zhName": "开曼群岛",
+    "code": "",
+    "phoneCode": "1345",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Central African Republic",
+    "zhName": "中非共和国",
+    "code": "CF",
+    "phoneCode": "236",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Chad",
+    "zhName": "乍得",
+    "code": "TD",
+    "phoneCode": "235",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Chile",
+    "zhName": "智利",
+    "code": "CL",
+    "phoneCode": "56",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "China",
+    "zhName": "中国",
+    "code": "CN",
+    "phoneCode": "86",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Colombia",
+    "zhName": "哥伦比亚",
+    "code": "CO",
+    "phoneCode": "57",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Congo",
+    "zhName": "刚果",
+    "code": "CG",
+    "phoneCode": "242",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Cook Is.",
+    "zhName": "库克群岛",
+    "code": "CK",
+    "phoneCode": "682",
+    "timeRegion": "-18.3"
+  },
+  {
+    "enName": "Costa Rica",
+    "zhName": "哥斯达黎加",
+    "code": "CR",
+    "phoneCode": "506",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Cuba",
+    "zhName": "古巴",
+    "code": "CU",
+    "phoneCode": "53",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Cyprus",
+    "zhName": "塞浦路斯",
+    "code": "CY",
+    "phoneCode": "357",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Czech Republic",
+    "zhName": "捷克",
+    "code": "CZ",
+    "phoneCode": "420",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Denmark",
+    "zhName": "丹麦",
+    "code": "DK",
+    "phoneCode": "45",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Djibouti",
+    "zhName": "吉布提",
+    "code": "DJ",
+    "phoneCode": "253",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Dominica Rep.",
+    "zhName": "多米尼加共和国",
+    "code": "DO",
+    "phoneCode": "1890",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Ecuador",
+    "zhName": "厄瓜多尔",
+    "code": "EC",
+    "phoneCode": "593",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Egypt",
+    "zhName": "埃及",
+    "code": "EG",
+    "phoneCode": "20",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "EI Salvador",
+    "zhName": "萨尔瓦多",
+    "code": "SV",
+    "phoneCode": "503",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Estonia",
+    "zhName": "爱沙尼亚",
+    "code": "EE",
+    "phoneCode": "372",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Ethiopia",
+    "zhName": "埃塞俄比亚",
+    "code": "ET",
+    "phoneCode": "251",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Fiji",
+    "zhName": "斐济",
+    "code": "FJ",
+    "phoneCode": "679",
+    "timeRegion": "+4"
+  },
+  {
+    "enName": "Finland",
+    "zhName": "芬兰",
+    "code": "FI",
+    "phoneCode": "358",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "France",
+    "zhName": "法国",
+    "code": "FR",
+    "phoneCode": "33",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "French Guiana",
+    "zhName": "法属圭亚那",
+    "code": "GF",
+    "phoneCode": "594",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Gabon",
+    "zhName": "加蓬",
+    "code": "GA",
+    "phoneCode": "241",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Gambia",
+    "zhName": "冈比亚",
+    "code": "GM",
+    "phoneCode": "220",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Georgia",
+    "zhName": "格鲁吉亚",
+    "code": "GE",
+    "phoneCode": "995",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Germany",
+    "zhName": "德国",
+    "code": "DE",
+    "phoneCode": "49",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Ghana",
+    "zhName": "加纳",
+    "code": "GH",
+    "phoneCode": "233",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Gibraltar",
+    "zhName": "直布罗陀",
+    "code": "GI",
+    "phoneCode": "350",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Greece",
+    "zhName": "希腊",
+    "code": "GR",
+    "phoneCode": "30",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Grenada",
+    "zhName": "格林纳达",
+    "code": "GD",
+    "phoneCode": "1809",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Guam",
+    "zhName": "关岛",
+    "code": "GU",
+    "phoneCode": "1671",
+    "timeRegion": "+2"
+  },
+  {
+    "enName": "Guatemala",
+    "zhName": "危地马拉",
+    "code": "GT",
+    "phoneCode": "502",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Guinea",
+    "zhName": "几内亚",
+    "code": "GN",
+    "phoneCode": "224",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Guyana",
+    "zhName": "圭亚那",
+    "code": "GY",
+    "phoneCode": "592",
+    "timeRegion": "-11"
+  },
+  {
+    "enName": "Haiti",
+    "zhName": "海地",
+    "code": "HT",
+    "phoneCode": "509",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Honduras",
+    "zhName": "洪都拉斯",
+    "code": "HN",
+    "phoneCode": "504",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Hongkong",
+    "zhName": "香港",
+    "code": "HK",
+    "phoneCode": "852",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Hungary",
+    "zhName": "匈牙利",
+    "code": "HU",
+    "phoneCode": "36",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Iceland",
+    "zhName": "冰岛",
+    "code": "IS",
+    "phoneCode": "354",
+    "timeRegion": "-9"
+  },
+  {
+    "enName": "India",
+    "zhName": "印度",
+    "code": "IN",
+    "phoneCode": "91",
+    "timeRegion": "-2.3"
+  },
+  {
+    "enName": "Indonesia",
+    "zhName": "印度尼西亚",
+    "code": "ID",
+    "phoneCode": "62",
+    "timeRegion": "-0.3"
+  },
+  {
+    "enName": "Iran",
+    "zhName": "伊朗",
+    "code": "IR",
+    "phoneCode": "98",
+    "timeRegion": "-4.3"
+  },
+  {
+    "enName": "Iraq",
+    "zhName": "伊拉克",
+    "code": "IQ",
+    "phoneCode": "964",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Ireland",
+    "zhName": "爱尔兰",
+    "code": "IE",
+    "phoneCode": "353",
+    "timeRegion": "-4.3"
+  },
+  {
+    "enName": "Israel",
+    "zhName": "以色列",
+    "code": "IL",
+    "phoneCode": "972",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Italy",
+    "zhName": "意大利",
+    "code": "IT",
+    "phoneCode": "39",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Ivory Coast",
+    "zhName": "科特迪瓦",
+    "code": "",
+    "phoneCode": "225",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Jamaica",
+    "zhName": "牙买加",
+    "code": "JM",
+    "phoneCode": "1876",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Japan",
+    "zhName": "日本",
+    "code": "JP",
+    "phoneCode": "81",
+    "timeRegion": "+1"
+  },
+  {
+    "enName": "Jordan",
+    "zhName": "约旦",
+    "code": "JO",
+    "phoneCode": "962",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Kampuchea (Cambodia )",
+    "zhName": "柬埔寨",
+    "code": "KH",
+    "phoneCode": "855",
+    "timeRegion": "-1"
+  },
+  {
+    "enName": "Kazakstan",
+    "zhName": "哈萨克斯坦",
+    "code": "KZ",
+    "phoneCode": "327",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Kenya",
+    "zhName": "肯尼亚",
+    "code": "KE",
+    "phoneCode": "254",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Korea",
+    "zhName": "韩国",
+    "code": "KR",
+    "phoneCode": "82",
+    "timeRegion": "+1"
+  },
+  {
+    "enName": "Kuwait",
+    "zhName": "科威特",
+    "code": "KW",
+    "phoneCode": "965",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Kyrgyzstan",
+    "zhName": "吉尔吉斯坦",
+    "code": "KG",
+    "phoneCode": "331",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Laos",
+    "zhName": "老挝",
+    "code": "LA",
+    "phoneCode": "856",
+    "timeRegion": "-1"
+  },
+  {
+    "enName": "Latvia",
+    "zhName": "拉脱维亚",
+    "code": "LV",
+    "phoneCode": "371",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Lebanon",
+    "zhName": "黎巴嫩",
+    "code": "LB",
+    "phoneCode": "961",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Lesotho",
+    "zhName": "莱索托",
+    "code": "LS",
+    "phoneCode": "266",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Liberia",
+    "zhName": "利比里亚",
+    "code": "LR",
+    "phoneCode": "231",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Libya",
+    "zhName": "利比亚",
+    "code": "LY",
+    "phoneCode": "218",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Liechtenstein",
+    "zhName": "列支敦士登",
+    "code": "LI",
+    "phoneCode": "423",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Lithuania",
+    "zhName": "立陶宛",
+    "code": "LT",
+    "phoneCode": "370",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Luxembourg",
+    "zhName": "卢森堡",
+    "code": "LU",
+    "phoneCode": "352",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Macao",
+    "zhName": "澳门",
+    "code": "MO",
+    "phoneCode": "853",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Madagascar",
+    "zhName": "马达加斯加",
+    "code": "MG",
+    "phoneCode": "261",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Malawi",
+    "zhName": "马拉维",
+    "code": "MW",
+    "phoneCode": "265",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Malaysia",
+    "zhName": "马来西亚",
+    "code": "MY",
+    "phoneCode": "60",
+    "timeRegion": "-0.5"
+  },
+  {
+    "enName": "Maldives",
+    "zhName": "马尔代夫",
+    "code": "MV",
+    "phoneCode": "960",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Mali",
+    "zhName": "马里",
+    "code": "ML",
+    "phoneCode": "223",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Malta",
+    "zhName": "马耳他",
+    "code": "MT",
+    "phoneCode": "356",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Mariana Is",
+    "zhName": "马里亚那群岛",
+    "code": "",
+    "phoneCode": "1670",
+    "timeRegion": "+1"
+  },
+  {
+    "enName": "Martinique",
+    "zhName": "马提尼克",
+    "code": "",
+    "phoneCode": "596",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Mauritius",
+    "zhName": "毛里求斯",
+    "code": "MU",
+    "phoneCode": "230",
+    "timeRegion": "-4"
+  },
+  {
+    "enName": "Mexico",
+    "zhName": "墨西哥",
+    "code": "MX",
+    "phoneCode": "52",
+    "timeRegion": "-15"
+  },
+  {
+    "enName": "Moldova, Republic of",
+    "zhName": "摩尔多瓦",
+    "code": "MD",
+    "phoneCode": "373",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Monaco",
+    "zhName": "摩纳哥",
+    "code": "MC",
+    "phoneCode": "377",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Mongolia",
+    "zhName": "蒙古",
+    "code": "MN",
+    "phoneCode": "976",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Montserrat Is",
+    "zhName": "蒙特塞拉特岛",
+    "code": "MS",
+    "phoneCode": "1664",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Morocco",
+    "zhName": "摩洛哥",
+    "code": "MA",
+    "phoneCode": "212",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Mozambique",
+    "zhName": "莫桑比克",
+    "code": "MZ",
+    "phoneCode": "258",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Namibia",
+    "zhName": "纳米比亚",
+    "code": "NA",
+    "phoneCode": "264",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Nauru",
+    "zhName": "瑙鲁",
+    "code": "NR",
+    "phoneCode": "674",
+    "timeRegion": "+4"
+  },
+  {
+    "enName": "Nepal",
+    "zhName": "尼泊尔",
+    "code": "NP",
+    "phoneCode": "977",
+    "timeRegion": "-2.3"
+  },
+  {
+    "enName": "Netheriands Antilles",
+    "zhName": "荷属安的列斯",
+    "code": "",
+    "phoneCode": "599",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Netherlands",
+    "zhName": "荷兰",
+    "code": "NL",
+    "phoneCode": "31",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "New Zealand",
+    "zhName": "新西兰",
+    "code": "NZ",
+    "phoneCode": "64",
+    "timeRegion": "+4"
+  },
+  {
+    "enName": "Nicaragua",
+    "zhName": "尼加拉瓜",
+    "code": "NI",
+    "phoneCode": "505",
+    "timeRegion": "-14"
+  },
+  {
+    "enName": "Niger",
+    "zhName": "尼日尔",
+    "code": "NE",
+    "phoneCode": "227",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Nigeria",
+    "zhName": "尼日利亚",
+    "code": "NG",
+    "phoneCode": "234",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "North Korea",
+    "zhName": "朝鲜",
+    "code": "KP",
+    "phoneCode": "850",
+    "timeRegion": "+1"
+  },
+  {
+    "enName": "Norway",
+    "zhName": "挪威",
+    "code": "NO",
+    "phoneCode": "47",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Oman",
+    "zhName": "阿曼",
+    "code": "OM",
+    "phoneCode": "968",
+    "timeRegion": "-4"
+  },
+  {
+    "enName": "Pakistan",
+    "zhName": "巴基斯坦",
+    "code": "PK",
+    "phoneCode": "92",
+    "timeRegion": "-2.3"
+  },
+  {
+    "enName": "Panama",
+    "zhName": "巴拿马",
+    "code": "PA",
+    "phoneCode": "507",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Papua New Cuinea",
+    "zhName": "巴布亚新几内亚",
+    "code": "PG",
+    "phoneCode": "675",
+    "timeRegion": "+2"
+  },
+  {
+    "enName": "Paraguay",
+    "zhName": "巴拉圭",
+    "code": "PY",
+    "phoneCode": "595",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Peru",
+    "zhName": "秘鲁",
+    "code": "PE",
+    "phoneCode": "51",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Philippines",
+    "zhName": "菲律宾",
+    "code": "PH",
+    "phoneCode": "63",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Poland",
+    "zhName": "波兰",
+    "code": "PL",
+    "phoneCode": "48",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "French Polynesia",
+    "zhName": "法属玻利尼西亚",
+    "code": "PF",
+    "phoneCode": "689",
+    "timeRegion": "+3"
+  },
+  {
+    "enName": "Portugal",
+    "zhName": "葡萄牙",
+    "code": "PT",
+    "phoneCode": "351",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Puerto Rico",
+    "zhName": "波多黎各",
+    "code": "PR",
+    "phoneCode": "1787",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Qatar",
+    "zhName": "卡塔尔",
+    "code": "QA",
+    "phoneCode": "974",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Reunion",
+    "zhName": "留尼旺",
+    "code": "",
+    "phoneCode": "262",
+    "timeRegion": "-4"
+  },
+  {
+    "enName": "Romania",
+    "zhName": "罗马尼亚",
+    "code": "RO",
+    "phoneCode": "40",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Russia",
+    "zhName": "俄罗斯",
+    "code": "RU",
+    "phoneCode": "7",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Saint Lueia",
+    "zhName": "圣卢西亚",
+    "code": "LC",
+    "phoneCode": "1758",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Saint Vincent",
+    "zhName": "圣文森特岛",
+    "code": "VC",
+    "phoneCode": "1784",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Samoa Eastern",
+    "zhName": "东萨摩亚(美)",
+    "code": "",
+    "phoneCode": "684",
+    "timeRegion": "-19"
+  },
+  {
+    "enName": "Samoa Western",
+    "zhName": "西萨摩亚",
+    "code": "",
+    "phoneCode": "685",
+    "timeRegion": "-19"
+  },
+  {
+    "enName": "San Marino",
+    "zhName": "圣马力诺",
+    "code": "SM",
+    "phoneCode": "378",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Sao Tome and Principe",
+    "zhName": "圣多美和普林西比",
+    "code": "ST",
+    "phoneCode": "239",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Saudi Arabia",
+    "zhName": "沙特阿拉伯",
+    "code": "SA",
+    "phoneCode": "966",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Senegal",
+    "zhName": "塞内加尔",
+    "code": "SN",
+    "phoneCode": "221",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Seychelles",
+    "zhName": "塞舌尔",
+    "code": "SC",
+    "phoneCode": "248",
+    "timeRegion": "-4"
+  },
+  {
+    "enName": "Sierra Leone",
+    "zhName": "塞拉利昂",
+    "code": "SL",
+    "phoneCode": "232",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Singapore",
+    "zhName": "新加坡",
+    "code": "SG",
+    "phoneCode": "65",
+    "timeRegion": "+0.3"
+  },
+  {
+    "enName": "Slovakia",
+    "zhName": "斯洛伐克",
+    "code": "SK",
+    "phoneCode": "421",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Slovenia",
+    "zhName": "斯洛文尼亚",
+    "code": "SI",
+    "phoneCode": "386",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Solomon Is",
+    "zhName": "所罗门群岛",
+    "code": "SB",
+    "phoneCode": "677",
+    "timeRegion": "+3"
+  },
+  {
+    "enName": "Somali",
+    "zhName": "索马里",
+    "code": "SO",
+    "phoneCode": "252",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "South Africa",
+    "zhName": "南非",
+    "code": "ZA",
+    "phoneCode": "27",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Spain",
+    "zhName": "西班牙",
+    "code": "ES",
+    "phoneCode": "34",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Sri Lanka",
+    "zhName": "斯里兰卡",
+    "code": "LK",
+    "phoneCode": "94",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "St.Lucia",
+    "zhName": "圣卢西亚",
+    "code": "LC",
+    "phoneCode": "1758",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "St.Vincent",
+    "zhName": "圣文森特",
+    "code": "VC",
+    "phoneCode": "1784",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Sudan",
+    "zhName": "苏丹",
+    "code": "SD",
+    "phoneCode": "249",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Suriname",
+    "zhName": "苏里南",
+    "code": "SR",
+    "phoneCode": "597",
+    "timeRegion": "-11.3"
+  },
+  {
+    "enName": "Swaziland",
+    "zhName": "斯威士兰",
+    "code": "SZ",
+    "phoneCode": "268",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Sweden",
+    "zhName": "瑞典",
+    "code": "SE",
+    "phoneCode": "46",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Switzerland",
+    "zhName": "瑞士",
+    "code": "CH",
+    "phoneCode": "41",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Syria",
+    "zhName": "叙利亚",
+    "code": "SY",
+    "phoneCode": "963",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Taiwan",
+    "zhName": "台湾省",
+    "code": "TW",
+    "phoneCode": "886",
+    "timeRegion": "0"
+  },
+  {
+    "enName": "Tajikstan",
+    "zhName": "塔吉克斯坦",
+    "code": "TJ",
+    "phoneCode": "992",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Tanzania",
+    "zhName": "坦桑尼亚",
+    "code": "TZ",
+    "phoneCode": "255",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Thailand",
+    "zhName": "泰国",
+    "code": "TH",
+    "phoneCode": "66",
+    "timeRegion": "-1"
+  },
+  {
+    "enName": "Togo",
+    "zhName": "多哥",
+    "code": "TG",
+    "phoneCode": "228",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "Tonga",
+    "zhName": "汤加",
+    "code": "TO",
+    "phoneCode": "676",
+    "timeRegion": "+4"
+  },
+  {
+    "enName": "Trinidad and Tobago",
+    "zhName": "特立尼达和多巴哥",
+    "code": "TT",
+    "phoneCode": "1809",
+    "timeRegion": "-12"
+  },
+  {
+    "enName": "Tunisia",
+    "zhName": "突尼斯",
+    "code": "TN",
+    "phoneCode": "216",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Turkey",
+    "zhName": "土耳其",
+    "code": "TR",
+    "phoneCode": "90",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Turkmenistan",
+    "zhName": "土库曼斯坦",
+    "code": "TM",
+    "phoneCode": "993",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Uganda",
+    "zhName": "乌干达",
+    "code": "UG",
+    "phoneCode": "256",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Ukraine",
+    "zhName": "乌克兰",
+    "code": "UA",
+    "phoneCode": "380",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "United Arab Emirates",
+    "zhName": "阿拉伯联合酋长国",
+    "code": "AE",
+    "phoneCode": "971",
+    "timeRegion": "-4"
+  },
+  {
+    "enName": "United Kiongdom",
+    "zhName": "英国",
+    "code": "GB",
+    "phoneCode": "44",
+    "timeRegion": "-8"
+  },
+  {
+    "enName": "United States of America",
+    "zhName": "美国",
+    "code": "US",
+    "phoneCode": "1",
+    "timeRegion": "-13"
+  },
+  {
+    "enName": "Uruguay",
+    "zhName": "乌拉圭",
+    "code": "UY",
+    "phoneCode": "598",
+    "timeRegion": "-10.3"
+  },
+  {
+    "enName": "Uzbekistan",
+    "zhName": "乌兹别克斯坦",
+    "code": "UZ",
+    "phoneCode": "233",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Venezuela",
+    "zhName": "委内瑞拉",
+    "code": "VE",
+    "phoneCode": "58",
+    "timeRegion": "-12.3"
+  },
+  {
+    "enName": "Vietnam",
+    "zhName": "越南",
+    "code": "VN",
+    "phoneCode": "84",
+    "timeRegion": "-1"
+  },
+  {
+    "enName": "Yemen",
+    "zhName": "也门",
+    "code": "YE",
+    "phoneCode": "967",
+    "timeRegion": "-5"
+  },
+  {
+    "enName": "Yugoslavia",
+    "zhName": "南斯拉夫",
+    "code": "YU",
+    "phoneCode": "381",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Zimbabwe",
+    "zhName": "津巴布韦",
+    "code": "ZW",
+    "phoneCode": "263",
+    "timeRegion": "-6"
+  },
+  {
+    "enName": "Zaire",
+    "zhName": "扎伊尔",
+    "code": "ZR",
+    "phoneCode": "243",
+    "timeRegion": "-7"
+  },
+  {
+    "enName": "Zambia",
+    "zhName": "赞比亚",
+    "code": "ZM",
+    "phoneCode": "260",
+    "timeRegion": "-6"
+  }
+]
