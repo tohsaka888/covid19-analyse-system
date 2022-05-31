@@ -14,6 +14,7 @@ import "flag-icons";
 import CountryInfo from "./components/CountryInfo";
 import BriefInfo from "./components/BriefInfo";
 import CountryCharts from "./components/CountryCharts";
+import SearchArea from "./components/SearchArea";
 
 type ResponseData = { results: string[]; success: boolean };
 
@@ -91,6 +92,7 @@ function App() {
             padding: "8px 16px",
           }}
         >
+          <SearchArea style={{ border: "1px solid", height: "450px" }} />
           <Card
             style={{
               width: "100%",
@@ -132,19 +134,19 @@ function App() {
           }}
         >
           <Card
-            style={{ width: "100%", height: "200px" }}
+            style={{ width: "100%", height: "50vh", flex: 1 }}
             position="right"
             key={area + 3}
           >
-            <CountryCharts />
+            <CountryCharts option={{}} source={areaInfo[0]} />
           </Card>
           <Card
             delay={300}
             position="right"
             key={area + 4}
-            style={{ width: "100%", height: "200px" }}
+            style={{ width: "100%", height: "50vh", flex: 1 }}
           >
-            card
+            <CountryCharts option={{}} />
           </Card>
         </Sider>
       </Content>
