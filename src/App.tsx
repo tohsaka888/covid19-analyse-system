@@ -13,6 +13,7 @@ import { AreaInfo, AreaInfoResults } from "./type";
 import "flag-icons";
 import CountryInfo from "./components/CountryInfo";
 import BriefInfo from "./components/BriefInfo";
+import CountryCharts from "./components/CountryCharts";
 
 type ResponseData = { results: string[]; success: boolean };
 
@@ -100,11 +101,7 @@ function App() {
           >
             <CountryInfo areaInfo={areaInfo} />
           </Card>
-          <Card
-            delay={300}
-            key={area + 2}
-            style={{ width: "100%" }}
-          >
+          <Card delay={300} key={area + 2} style={{ width: "100%" }}>
             <BriefInfo areaInfo={areaInfo} />
           </Card>
         </Sider>
@@ -139,7 +136,7 @@ function App() {
             position="right"
             key={area + 3}
           >
-            card
+            <CountryCharts />
           </Card>
           <Card
             delay={300}
