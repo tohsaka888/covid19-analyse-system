@@ -5315,6 +5315,11 @@ find-up@^5.0.0:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
 
+flag-icons@^6.4.4:
+  version "6.4.4"
+  resolved "https://registry.yarnpkg.com/flag-icons/-/flag-icons-6.4.4.tgz#d91229842edff4ee71b3bf942b8288c19c5139fe"
+  integrity sha512-NGA8F1+MWg0Scmo/6DZcUnfEE1/8Pe/zYiyALsKF1iHVdugacdteldsLU+v6hpX0sLv42u7CNnh3oEBbaTSCoA==
+
 flat-cache@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-3.0.4.tgz#61b0338302b2fe9f957dcc32fc2a87f1c3048b11"
@@ -7092,6 +7097,11 @@ mmd-parser@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/mmd-parser/-/mmd-parser-1.0.4.tgz#87cc05782cb5974ca854f0303fc5147bc9d690e7"
   integrity sha512-Qi0VCU46t2IwfGv5KF0+D/t9cizcDug7qnNoy9Ggk7aucp0tssV8IwTMkBlDbm+VqAf3cdQHTCARKSsuS2MYFg==
+
+moment@^2.29.3:
+  version "2.29.3"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.3.tgz#edd47411c322413999f7a5940d526de183c031f3"
+  integrity sha512-c6YRvhEo//6T2Jz/vVtYzqBzwvPT95JBQ+smCytzf7c50oMZRsR/a4w88aD34I+/QVSfnoAnSBFPJHItlOMJVw==
 
 ms@2.0.0:
   version "2.0.0"
@@ -9483,13 +9493,14 @@ toggle-selection@^1.0.6:
   resolved "https://registry.yarnpkg.com/toggle-selection/-/toggle-selection-1.0.6.tgz#6e45b1263f2017fa0acc7d89d78b15b8bf77da32"
   integrity sha1-bkWxJj8gF/oKzH2J14sVuL932jI=
 
-tohsaka888-word-cloud@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/tohsaka888-word-cloud/-/tohsaka888-word-cloud-0.1.1.tgz#177a1a3092bd3afd8e7c4c12387f53ed9afaac83"
-  integrity sha512-zK1ylVq4ItRLmTmqlHIaJwsKVA3g28aNgXZ64T+j/C/7onCFKmWaI8xHLJeSpdX9S7C7lPG2zF+yMn87CTuSYQ==
+tohsaka888-word-cloud@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/tohsaka888-word-cloud/-/tohsaka888-word-cloud-0.1.2.tgz#56ba3920e91ccaf9a4d7cad5c179350f9a041e45"
+  integrity sha512-1FJnwEpseOrAD0kJLXtRyLHonD9EXzGAeDgQpJonWGONnlGyR5i/qVgy1ZZKqo5c1sOj2ww+HnVMVYKMKLm4jw==
   dependencies:
     "@react-three/drei" "^9.11.3"
     "@react-three/fiber" "^8.0.19"
+    styled-components "^5.3.5"
     three "^0.141.0"
 
 toidentifier@1.0.1:
@@ -9802,11 +9813,6 @@ wbuf@^1.1.0, wbuf@^1.7.3:
   integrity sha512-O84QOnr0icsbFGLS0O3bI5FswxzRr8/gHwWkDlQFskhSPryQXvrTMxjxGP4+iWYoauLoBvfDpkrOauZ+0iZpDA==
   dependencies:
     minimalistic-assert "^1.0.0"
-
-web-vitals@^2.1.0:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-2.1.4.tgz#76563175a475a5e835264d373704f9dde718290c"
-  integrity sha512-sVWcwhU5mX6crfI5Vd2dC4qchyTqxV8URinzt25XqVh+bHEPGH4C3NPrNionCP7Obx59wrYEbNlw4Z8sjALzZg==
 
 webgl-constants@^1.1.1:
   version "1.1.1"
