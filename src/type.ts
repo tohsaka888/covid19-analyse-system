@@ -3,6 +3,11 @@ export type LangContextProps = {
   setLang: React.Dispatch<React.SetStateAction<'zh' | 'en'>>
 }
 
+export type ModeContextProps = {
+  mode: '中国地图' | '词云';
+  setMode: React.Dispatch<React.SetStateAction<'中国地图' | '词云'>>
+}
+
 export type AreaInfoResults = {
   locationId: number;
   continentName: string;
