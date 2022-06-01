@@ -1,0 +1,2243 @@
+[
+  {
+    "enName": "Afghanistan",
+    "code": "AF",
+    "tcode": "AFG",
+    "ncode": "004",
+    "rule": "ISO 3166-2:AF",
+    "zhName": "阿富汗",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Aland Islands",
+    "code": "AX",
+    "tcode": "ALA",
+    "ncode": "248",
+    "rule": "ISO 3166-2:AX",
+    "zhName": "奥兰",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Albania",
+    "code": "AL",
+    "tcode": "ALB",
+    "ncode": "008",
+    "rule": "ISO 3166-2:AL",
+    "zhName": "阿尔巴尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Algeria",
+    "code": "DZ",
+    "tcode": "DZA",
+    "ncode": "012",
+    "rule": "ISO 3166-2:DZ",
+    "zhName": "阿尔及利亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "American Samoa",
+    "code": "AS",
+    "tcode": "ASM",
+    "ncode": "016",
+    "rule": "ISO 3166-2:AS",
+    "zhName": "美属萨摩亚",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Andorra",
+    "code": "AD",
+    "tcode": "AND",
+    "ncode": "020",
+    "rule": "ISO 3166-2:AD",
+    "zhName": "安道尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Angola",
+    "code": "AO",
+    "tcode": "AGO",
+    "ncode": "024",
+    "rule": "ISO 3166-2:AO",
+    "zhName": "安哥拉",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Anguilla",
+    "code": "AI",
+    "tcode": "AIA",
+    "ncode": "660",
+    "rule": "ISO 3166-2:AI",
+    "zhName": "安圭拉",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Antarctica",
+    "code": "AQ",
+    "tcode": "ATA",
+    "ncode": "010",
+    "rule": "ISO 3166-2:AQ",
+    "zhName": "南极洲",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Antigua and Barbuda",
+    "code": "AG",
+    "tcode": "ATG",
+    "ncode": "028",
+    "rule": "ISO 3166-2:AG",
+    "zhName": "安提瓜和巴布达",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Argentina",
+    "code": "AR",
+    "tcode": "ARG",
+    "ncode": "032",
+    "rule": "ISO 3166-2:AR",
+    "zhName": "阿根廷",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Armenia",
+    "code": "AM",
+    "tcode": "ARM",
+    "ncode": "051",
+    "rule": "ISO 3166-2:AM",
+    "zhName": "亚美尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Aruba",
+    "code": "AW",
+    "tcode": "ABW",
+    "ncode": "533",
+    "rule": "ISO 3166-2:AW",
+    "zhName": "阿鲁巴",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Australia",
+    "code": "AU",
+    "tcode": "AUS",
+    "ncode": "036",
+    "rule": "ISO 3166-2:AU",
+    "zhName": "澳大利亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Austria",
+    "code": "AT",
+    "tcode": "AUT",
+    "ncode": "040",
+    "rule": "ISO 3166-2:AT",
+    "zhName": "奥地利",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Azerbaijan",
+    "code": "AZ",
+    "tcode": "AZE",
+    "ncode": "031",
+    "rule": "ISO 3166-2:AZ",
+    "zhName": "阿塞拜疆",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bahamas",
+    "code": "BS",
+    "tcode": "BHS",
+    "ncode": "044",
+    "rule": "ISO 3166-2:BS",
+    "zhName": "巴哈马",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bahrain",
+    "code": "BH",
+    "tcode": "BHR",
+    "ncode": "048",
+    "rule": "ISO 3166-2:BH",
+    "zhName": "巴林",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bangladesh",
+    "code": "BD",
+    "tcode": "BGD",
+    "ncode": "050",
+    "rule": "ISO 3166-2:BD",
+    "zhName": "孟加拉国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Barbados",
+    "code": "BB",
+    "tcode": "BRB",
+    "ncode": "052",
+    "rule": "ISO 3166-2:BB",
+    "zhName": "巴巴多斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Belarus",
+    "code": "BY",
+    "tcode": "BLR",
+    "ncode": "112",
+    "rule": "ISO 3166-2:BY",
+    "zhName": "白俄罗斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Belgium",
+    "code": "BE",
+    "tcode": "BEL",
+    "ncode": "056",
+    "rule": "ISO 3166-2:BE",
+    "zhName": "比利时",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Belize",
+    "code": "BZ",
+    "tcode": "BLZ",
+    "ncode": "084",
+    "rule": "ISO 3166-2:BZ",
+    "zhName": "伯利兹",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Benin",
+    "code": "BJ",
+    "tcode": "BEN",
+    "ncode": "204",
+    "rule": "ISO 3166-2:BJ",
+    "zhName": "贝宁",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bermuda",
+    "code": "BM",
+    "tcode": "BMU",
+    "ncode": "060",
+    "rule": "ISO 3166-2:BM",
+    "zhName": "百慕大",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Bhutan",
+    "code": "BT",
+    "tcode": "BTN",
+    "ncode": "064",
+    "rule": "ISO 3166-2:BT",
+    "zhName": "不丹",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bolivia (Plurinational State of)",
+    "code": "BO",
+    "tcode": "BOL",
+    "ncode": "068",
+    "rule": "ISO 3166-2:BO",
+    "zhName": "玻利维亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bonaire, Sint Eustatius and Saba",
+    "code": "BQ",
+    "tcode": "BES",
+    "ncode": "535",
+    "rule": "ISO 3166-2:BQ",
+    "zhName": "荷兰加勒比区",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Bosnia and Herzegovina",
+    "code": "BA",
+    "tcode": "BIH",
+    "ncode": "070",
+    "rule": "ISO 3166-2:BA",
+    "zhName": "波黑",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Botswana",
+    "code": "BW",
+    "tcode": "BWA",
+    "ncode": "072",
+    "rule": "ISO 3166-2:BW",
+    "zhName": "博茨瓦纳",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bouvet Island",
+    "code": "BV",
+    "tcode": "BVT",
+    "ncode": "074",
+    "rule": "ISO 3166-2:BV",
+    "zhName": "布韦岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Brazil",
+    "code": "BR",
+    "tcode": "BRA",
+    "ncode": "076",
+    "rule": "ISO 3166-2:BR",
+    "zhName": "巴西",
+    "isAlone": "是"
+  },
+  {
+    "enName": "British Indian Ocean Territory",
+    "code": "IO",
+    "tcode": "IOT",
+    "ncode": "086",
+    "rule": "ISO 3166-2:IO",
+    "zhName": "英属印度洋领地",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Brunei Darussalam",
+    "code": "BN",
+    "tcode": "BRN",
+    "ncode": "096",
+    "rule": "ISO 3166-2:BN",
+    "zhName": "文莱",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Bulgaria",
+    "code": "BG",
+    "tcode": "BGR",
+    "ncode": "100",
+    "rule": "ISO 3166-2:BG",
+    "zhName": "保加利亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Burkina Faso",
+    "code": "BF",
+    "tcode": "BFA",
+    "ncode": "854",
+    "rule": "ISO 3166-2:BF",
+    "zhName": "布基纳法索",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Burundi",
+    "code": "BI",
+    "tcode": "BDI",
+    "ncode": "108",
+    "rule": "ISO 3166-2:BI",
+    "zhName": "布隆迪",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Cabo Verde",
+    "code": "CV",
+    "tcode": "CPV",
+    "ncode": "132",
+    "rule": "ISO 3166-2:CV",
+    "zhName": "佛得角",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Cambodia",
+    "code": "KH",
+    "tcode": "KHM",
+    "ncode": "116",
+    "rule": "ISO 3166-2:KH",
+    "zhName": "柬埔寨",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Cameroon",
+    "code": "CM",
+    "tcode": "CMR",
+    "ncode": "120",
+    "rule": "ISO 3166-2:CM",
+    "zhName": "喀麦隆",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Canada",
+    "code": "CA",
+    "tcode": "CAN",
+    "ncode": "124",
+    "rule": "ISO 3166-2:CA",
+    "zhName": "加拿大",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Cayman Islands",
+    "code": "KY",
+    "tcode": "CYM",
+    "ncode": "136",
+    "rule": "ISO 3166-2:KY",
+    "zhName": "开曼群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Central African Republic",
+    "code": "CF",
+    "tcode": "CAF",
+    "ncode": "140",
+    "rule": "ISO 3166-2:CF",
+    "zhName": "中非",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Chad",
+    "code": "TD",
+    "tcode": "TCD",
+    "ncode": "148",
+    "rule": "ISO 3166-2:TD",
+    "zhName": "乍得",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Chile",
+    "code": "CL",
+    "tcode": "CHL",
+    "ncode": "152",
+    "rule": "ISO 3166-2:CL",
+    "zhName": "智利",
+    "isAlone": "是"
+  },
+  {
+    "enName": "China",
+    "code": "CN",
+    "tcode": "CHN",
+    "ncode": "156",
+    "rule": "ISO 3166-2:CN",
+    "zhName": "中国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Christmas Island",
+    "code": "CX",
+    "tcode": "CXR",
+    "ncode": "162",
+    "rule": "ISO 3166-2:CX",
+    "zhName": "圣诞岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "tcode": "CCK",
+    "ncode": "166",
+    "rule": "ISO 3166-2:CC",
+    "zhName": "科科斯（基林）群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Colombia",
+    "code": "CO",
+    "tcode": "COL",
+    "ncode": "170",
+    "rule": "ISO 3166-2:CO",
+    "zhName": "哥伦比亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Comoros",
+    "code": "KM",
+    "tcode": "COM",
+    "ncode": "174",
+    "rule": "ISO 3166-2:KM",
+    "zhName": "科摩罗",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Congo",
+    "code": "CG",
+    "tcode": "COG",
+    "ncode": "178",
+    "rule": "ISO 3166-2:CG",
+    "zhName": "刚果共和国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Congo (Democratic Republic of the)",
+    "code": "CD",
+    "tcode": "COD",
+    "ncode": "180",
+    "rule": "ISO 3166-2:CD",
+    "zhName": "刚果民主共和国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Cook Islands",
+    "code": "CK",
+    "tcode": "COK",
+    "ncode": "184",
+    "rule": "ISO 3166-2:CK",
+    "zhName": "库克群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Costa Rica",
+    "code": "CR",
+    "tcode": "CRI",
+    "ncode": "188",
+    "rule": "ISO 3166-2:CR",
+    "zhName": "哥斯达黎加",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Côte d'Ivoire",
+    "code": "CI",
+    "tcode": "CIV",
+    "ncode": "384",
+    "rule": "ISO 3166-2:CI",
+    "zhName": "科特迪瓦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Croatia",
+    "code": "HR",
+    "tcode": "HRV",
+    "ncode": "191",
+    "rule": "ISO 3166-2:HR",
+    "zhName": "克罗地亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Cuba",
+    "code": "CU",
+    "tcode": "CUB",
+    "ncode": "192",
+    "rule": "ISO 3166-2:CU",
+    "zhName": "古巴",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Curacao !Curaçao",
+    "code": "CW",
+    "tcode": "CUW",
+    "ncode": "531",
+    "rule": "ISO 3166-2:CW",
+    "zhName": "库拉索",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Cyprus",
+    "code": "CY",
+    "tcode": "CYP",
+    "ncode": "196",
+    "rule": "ISO 3166-2:CY",
+    "zhName": "塞浦路斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Czechia",
+    "code": "CZ",
+    "tcode": "CZE",
+    "ncode": "203",
+    "rule": "ISO 3166-2:CZ",
+    "zhName": "捷克",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Denmark",
+    "code": "DK",
+    "tcode": "DNK",
+    "ncode": "208",
+    "rule": "ISO 3166-2:DK",
+    "zhName": "丹麦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Djibouti",
+    "code": "DJ",
+    "tcode": "DJI",
+    "ncode": "262",
+    "rule": "ISO 3166-2:DJ",
+    "zhName": "吉布提",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Dominica",
+    "code": "DM",
+    "tcode": "DMA",
+    "ncode": "212",
+    "rule": "ISO 3166-2:DM",
+    "zhName": "多米尼克",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Dominican Republic",
+    "code": "DO",
+    "tcode": "DOM",
+    "ncode": "214",
+    "rule": "ISO 3166-2:DO",
+    "zhName": "多米尼加",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Ecuador",
+    "code": "EC",
+    "tcode": "ECU",
+    "ncode": "218",
+    "rule": "ISO 3166-2:EC",
+    "zhName": "厄瓜多尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Egypt",
+    "code": "EG",
+    "tcode": "EGY",
+    "ncode": "818",
+    "rule": "ISO 3166-2:EG",
+    "zhName": "埃及",
+    "isAlone": "是"
+  },
+  {
+    "enName": "El Salvador",
+    "code": "SV",
+    "tcode": "SLV",
+    "ncode": "222",
+    "rule": "ISO 3166-2:SV",
+    "zhName": "萨尔瓦多",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Equatorial Guinea",
+    "code": "GQ",
+    "tcode": "GNQ",
+    "ncode": "226",
+    "rule": "ISO 3166-2:GQ",
+    "zhName": "赤道几内亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Eritrea",
+    "code": "ER",
+    "tcode": "ERI",
+    "ncode": "232",
+    "rule": "ISO 3166-2:ER",
+    "zhName": "厄立特里亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Estonia",
+    "code": "EE",
+    "tcode": "EST",
+    "ncode": "233",
+    "rule": "ISO 3166-2:EE",
+    "zhName": "爱沙尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Eswatini",
+    "code": "SZ",
+    "tcode": "SWZ",
+    "ncode": "748",
+    "rule": "ISO 3166-2:SZ",
+    "zhName": "斯威士兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Ethiopia",
+    "code": "ET",
+    "tcode": "ETH",
+    "ncode": "231",
+    "rule": "ISO 3166-2:ET",
+    "zhName": "埃塞俄比亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Falkland Islands (Malvinas)",
+    "code": "FK",
+    "tcode": "FLK",
+    "ncode": "238",
+    "rule": "ISO 3166-2:FK",
+    "zhName": "福克兰群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Faroe Islands",
+    "code": "FO",
+    "tcode": "FRO",
+    "ncode": "234",
+    "rule": "ISO 3166-2:FO",
+    "zhName": "法罗群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Fiji",
+    "code": "FJ",
+    "tcode": "FJI",
+    "ncode": "242",
+    "rule": "ISO 3166-2:FJ",
+    "zhName": "斐济",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Finland",
+    "code": "FI",
+    "tcode": "FIN",
+    "ncode": "246",
+    "rule": "ISO 3166-2:FI",
+    "zhName": "芬兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "France",
+    "code": "FR",
+    "tcode": "FRA",
+    "ncode": "250",
+    "rule": "ISO 3166-2:FR",
+    "zhName": "法国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "French Guiana",
+    "code": "GF",
+    "tcode": "GUF",
+    "ncode": "254",
+    "rule": "ISO 3166-2:GF",
+    "zhName": "法属圭亚那",
+    "isAlone": "否"
+  },
+  {
+    "enName": "French Polynesia",
+    "code": "PF",
+    "tcode": "PYF",
+    "ncode": "258",
+    "rule": "ISO 3166-2:PF",
+    "zhName": "法属波利尼西亚",
+    "isAlone": "否"
+  },
+  {
+    "enName": "French Southern Territories",
+    "code": "TF",
+    "tcode": "ATF",
+    "ncode": "260",
+    "rule": "ISO 3166-2:TF",
+    "zhName": "法属南部和南极领地",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Gabon",
+    "code": "GA",
+    "tcode": "GAB",
+    "ncode": "266",
+    "rule": "ISO 3166-2:GA",
+    "zhName": "加蓬",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Gambia",
+    "code": "GM",
+    "tcode": "GMB",
+    "ncode": "270",
+    "rule": "ISO 3166-2:GM",
+    "zhName": "冈比亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Georgia",
+    "code": "GE",
+    "tcode": "GEO",
+    "ncode": "268",
+    "rule": "ISO 3166-2:GE",
+    "zhName": "格鲁吉亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Germany",
+    "code": "DE",
+    "tcode": "DEU",
+    "ncode": "276",
+    "rule": "ISO 3166-2:DE",
+    "zhName": "德国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Ghana",
+    "code": "GH",
+    "tcode": "GHA",
+    "ncode": "288",
+    "rule": "ISO 3166-2:GH",
+    "zhName": "加纳",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Gibraltar",
+    "code": "GI",
+    "tcode": "GIB",
+    "ncode": "292",
+    "rule": "ISO 3166-2:GI",
+    "zhName": "直布罗陀",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Greece",
+    "code": "GR",
+    "tcode": "GRC",
+    "ncode": "300",
+    "rule": "ISO 3166-2:GR",
+    "zhName": "希腊",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Greenland",
+    "code": "GL",
+    "tcode": "GRL",
+    "ncode": "304",
+    "rule": "ISO 3166-2:GL",
+    "zhName": "格陵兰",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Grenada",
+    "code": "GD",
+    "tcode": "GRD",
+    "ncode": "308",
+    "rule": "ISO 3166-2:GD",
+    "zhName": "格林纳达",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Guadeloupe",
+    "code": "GP",
+    "tcode": "GLP",
+    "ncode": "312",
+    "rule": "ISO 3166-2:GP",
+    "zhName": "瓜德罗普",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Guam",
+    "code": "GU",
+    "tcode": "GUM",
+    "ncode": "316",
+    "rule": "ISO 3166-2:GU",
+    "zhName": "关岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Guatemala",
+    "code": "GT",
+    "tcode": "GTM",
+    "ncode": "320",
+    "rule": "ISO 3166-2:GT",
+    "zhName": "危地马拉",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Guernsey",
+    "code": "GG",
+    "tcode": "GGY",
+    "ncode": "831",
+    "rule": "ISO 3166-2:GG",
+    "zhName": "根西",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Guinea",
+    "code": "GN",
+    "tcode": "GIN",
+    "ncode": "324",
+    "rule": "ISO 3166-2:GN",
+    "zhName": "几内亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Guinea-Bissau",
+    "code": "GW",
+    "tcode": "GNB",
+    "ncode": "624",
+    "rule": "ISO 3166-2:GW",
+    "zhName": "几内亚比绍",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Guyana",
+    "code": "GY",
+    "tcode": "GUY",
+    "ncode": "328",
+    "rule": "ISO 3166-2:GY",
+    "zhName": "圭亚那",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Haiti",
+    "code": "HT",
+    "tcode": "HTI",
+    "ncode": "332",
+    "rule": "ISO 3166-2:HT",
+    "zhName": "海地",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Heard Island and McDonald Islands",
+    "code": "HM",
+    "tcode": "HMD",
+    "ncode": "334",
+    "rule": "ISO 3166-2:HM",
+    "zhName": "赫德岛和麦克唐纳群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Holy See",
+    "code": "VA",
+    "tcode": "VAT",
+    "ncode": "336",
+    "rule": "ISO 3166-2:VA",
+    "zhName": "梵蒂冈",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Honduras",
+    "code": "HN",
+    "tcode": "HND",
+    "ncode": "340",
+    "rule": "ISO 3166-2:HN",
+    "zhName": "洪都拉斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Hong Kong",
+    "code": "HK",
+    "tcode": "HKG",
+    "ncode": "344",
+    "rule": "ISO 3166-2:HK",
+    "zhName": "香港",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Hungary",
+    "code": "HU",
+    "tcode": "HUN",
+    "ncode": "348",
+    "rule": "ISO 3166-2:HU",
+    "zhName": "匈牙利",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Iceland",
+    "code": "IS",
+    "tcode": "ISL",
+    "ncode": "352",
+    "rule": "ISO 3166-2:IS",
+    "zhName": "冰岛",
+    "isAlone": "是"
+  },
+  {
+    "enName": "India",
+    "code": "IN",
+    "tcode": "IND",
+    "ncode": "356",
+    "rule": "ISO 3166-2:IN",
+    "zhName": "印度",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Indonesia",
+    "code": "ID",
+    "tcode": "IDN",
+    "ncode": "360",
+    "rule": "ISO 3166-2:ID",
+    "zhName": "印尼",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Iran (Islamic Republic of)",
+    "code": "IR",
+    "tcode": "IRN",
+    "ncode": "364",
+    "rule": "ISO 3166-2:IR",
+    "zhName": "伊朗",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Iraq",
+    "code": "IQ",
+    "tcode": "IRQ",
+    "ncode": "368",
+    "rule": "ISO 3166-2:IQ",
+    "zhName": "伊拉克",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Ireland",
+    "code": "IE",
+    "tcode": "IRL",
+    "ncode": "372",
+    "rule": "ISO 3166-2:IE",
+    "zhName": "爱尔兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Isle of Man",
+    "code": "IM",
+    "tcode": "IMN",
+    "ncode": "833",
+    "rule": "ISO 3166-2:IM",
+    "zhName": "马恩岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Israel",
+    "code": "IL",
+    "tcode": "ISR",
+    "ncode": "376",
+    "rule": "ISO 3166-2:IL",
+    "zhName": "以色列",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Italy",
+    "code": "IT",
+    "tcode": "ITA",
+    "ncode": "380",
+    "rule": "ISO 3166-2:IT",
+    "zhName": "意大利",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Jamaica",
+    "code": "JM",
+    "tcode": "JAM",
+    "ncode": "388",
+    "rule": "ISO 3166-2:JM",
+    "zhName": "牙买加",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Japan",
+    "code": "JP",
+    "tcode": "JPN",
+    "ncode": "392",
+    "rule": "ISO 3166-2:JP",
+    "zhName": "日本",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Jersey",
+    "code": "JE",
+    "tcode": "JEY",
+    "ncode": "832",
+    "rule": "ISO 3166-2:JE",
+    "zhName": "泽西",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Jordan",
+    "code": "JO",
+    "tcode": "JOR",
+    "ncode": "400",
+    "rule": "ISO 3166-2:JO",
+    "zhName": "约旦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Kazakhstan",
+    "code": "KZ",
+    "tcode": "KAZ",
+    "ncode": "398",
+    "rule": "ISO 3166-2:KZ",
+    "zhName": "哈萨克斯坦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Kenya",
+    "code": "KE",
+    "tcode": "KEN",
+    "ncode": "404",
+    "rule": "ISO 3166-2:KE",
+    "zhName": "肯尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Kiribati",
+    "code": "KI",
+    "tcode": "KIR",
+    "ncode": "296",
+    "rule": "ISO 3166-2:KI",
+    "zhName": "基里巴斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Korea (Democratic People's Republic of)",
+    "code": "KP",
+    "tcode": "PRK",
+    "ncode": "408",
+    "rule": "ISO 3166-2:KP",
+    "zhName": "朝鲜",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Korea (Republic of)",
+    "code": "KR",
+    "tcode": "KOR",
+    "ncode": "410",
+    "rule": "ISO 3166-2:KR",
+    "zhName": "韩国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Kuwait",
+    "code": "KW",
+    "tcode": "KWT",
+    "ncode": "414",
+    "rule": "ISO 3166-2:KW",
+    "zhName": "科威特",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Kyrgyzstan",
+    "code": "KG",
+    "tcode": "KGZ",
+    "ncode": "417",
+    "rule": "ISO 3166-2:KG",
+    "zhName": "吉尔吉斯斯坦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Lao People's Democratic Republic",
+    "code": "LA",
+    "tcode": "LAO",
+    "ncode": "418",
+    "rule": "ISO 3166-2:LA",
+    "zhName": "老挝",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Latvia",
+    "code": "LV",
+    "tcode": "LVA",
+    "ncode": "428",
+    "rule": "ISO 3166-2:LV",
+    "zhName": "拉脱维亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Lebanon",
+    "code": "LB",
+    "tcode": "LBN",
+    "ncode": "422",
+    "rule": "ISO 3166-2:LB",
+    "zhName": "黎巴嫩",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Lesotho",
+    "code": "LS",
+    "tcode": "LSO",
+    "ncode": "426",
+    "rule": "ISO 3166-2:LS",
+    "zhName": "莱索托",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Liberia",
+    "code": "LR",
+    "tcode": "LBR",
+    "ncode": "430",
+    "rule": "ISO 3166-2:LR",
+    "zhName": "利比里亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Libya",
+    "code": "LY",
+    "tcode": "LBY",
+    "ncode": "434",
+    "rule": "ISO 3166-2:LY",
+    "zhName": "利比亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Liechtenstein",
+    "code": "LI",
+    "tcode": "LIE",
+    "ncode": "438",
+    "rule": "ISO 3166-2:LI",
+    "zhName": "列支敦士登",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Lithuania",
+    "code": "LT",
+    "tcode": "LTU",
+    "ncode": "440",
+    "rule": "ISO 3166-2:LT",
+    "zhName": "立陶宛",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Luxembourg",
+    "code": "LU",
+    "tcode": "LUX",
+    "ncode": "442",
+    "rule": "ISO 3166-2:LU",
+    "zhName": "卢森堡",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Macao",
+    "code": "MO",
+    "tcode": "MAC",
+    "ncode": "446",
+    "rule": "ISO 3166-2:MO",
+    "zhName": "澳门",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Madagascar",
+    "code": "MG",
+    "tcode": "MDG",
+    "ncode": "450",
+    "rule": "ISO 3166-2:MG",
+    "zhName": "马达加斯加",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Malawi",
+    "code": "MW",
+    "tcode": "MWI",
+    "ncode": "454",
+    "rule": "ISO 3166-2:MW",
+    "zhName": "马拉维",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Malaysia",
+    "code": "MY",
+    "tcode": "MYS",
+    "ncode": "458",
+    "rule": "ISO 3166-2:MY",
+    "zhName": "马来西亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Maldives",
+    "code": "MV",
+    "tcode": "MDV",
+    "ncode": "462",
+    "rule": "ISO 3166-2:MV",
+    "zhName": "马尔代夫",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Mali",
+    "code": "ML",
+    "tcode": "MLI",
+    "ncode": "466",
+    "rule": "ISO 3166-2:ML",
+    "zhName": "马里",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Malta",
+    "code": "MT",
+    "tcode": "MLT",
+    "ncode": "470",
+    "rule": "ISO 3166-2:MT",
+    "zhName": "马耳他",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Marshall Islands",
+    "code": "MH",
+    "tcode": "MHL",
+    "ncode": "584",
+    "rule": "ISO 3166-2:MH",
+    "zhName": "马绍尔群岛",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Martinique",
+    "code": "MQ",
+    "tcode": "MTQ",
+    "ncode": "474",
+    "rule": "ISO 3166-2:MQ",
+    "zhName": "马提尼克",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Mauritania",
+    "code": "MR",
+    "tcode": "MRT",
+    "ncode": "478",
+    "rule": "ISO 3166-2:MR",
+    "zhName": "毛里塔尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Mauritius",
+    "code": "MU",
+    "tcode": "MUS",
+    "ncode": "480",
+    "rule": "ISO 3166-2:MU",
+    "zhName": "毛里求斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Mayotte",
+    "code": "YT",
+    "tcode": "MYT",
+    "ncode": "175",
+    "rule": "ISO 3166-2:YT",
+    "zhName": "马约特",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Mexico",
+    "code": "MX",
+    "tcode": "MEX",
+    "ncode": "484",
+    "rule": "ISO 3166-2:MX",
+    "zhName": "墨西哥",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Micronesia (Federated States of)",
+    "code": "FM",
+    "tcode": "FSM",
+    "ncode": "583",
+    "rule": "ISO 3166-2:FM",
+    "zhName": "密克罗尼西亚联邦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Moldova (Republic of)",
+    "code": "MD",
+    "tcode": "MDA",
+    "ncode": "498",
+    "rule": "ISO 3166-2:MD",
+    "zhName": "摩尔多瓦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Monaco",
+    "code": "MC",
+    "tcode": "MCO",
+    "ncode": "492",
+    "rule": "ISO 3166-2:MC",
+    "zhName": "摩纳哥",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Mongolia",
+    "code": "MN",
+    "tcode": "MNG",
+    "ncode": "496",
+    "rule": "ISO 3166-2:MN",
+    "zhName": "蒙古",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Montenegro",
+    "code": "ME",
+    "tcode": "MNE",
+    "ncode": "499",
+    "rule": "ISO 3166-2:ME",
+    "zhName": "黑山",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Montserrat",
+    "code": "MS",
+    "tcode": "MSR",
+    "ncode": "500",
+    "rule": "ISO 3166-2:MS",
+    "zhName": "蒙特塞拉特",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Morocco",
+    "code": "MA",
+    "tcode": "MAR",
+    "ncode": "504",
+    "rule": "ISO 3166-2:MA",
+    "zhName": "摩洛哥",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Mozambique",
+    "code": "MZ",
+    "tcode": "MOZ",
+    "ncode": "508",
+    "rule": "ISO 3166-2:MZ",
+    "zhName": "莫桑比克",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Myanmar",
+    "code": "MM",
+    "tcode": "MMR",
+    "ncode": "104",
+    "rule": "ISO 3166-2:MM",
+    "zhName": "缅甸",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Namibia",
+    "code": "NA",
+    "tcode": "NAM",
+    "ncode": "516",
+    "rule": "ISO 3166-2:NA",
+    "zhName": "纳米比亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Nauru",
+    "code": "NR",
+    "tcode": "NRU",
+    "ncode": "520",
+    "rule": "ISO 3166-2:NR",
+    "zhName": "瑙鲁",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Nepal",
+    "code": "NP",
+    "tcode": "NPL",
+    "ncode": "524",
+    "rule": "ISO 3166-2:NP",
+    "zhName": "尼泊尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Netherlands",
+    "code": "NL",
+    "tcode": "NLD",
+    "ncode": "528",
+    "rule": "ISO 3166-2:NL",
+    "zhName": "荷兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "New Caledonia",
+    "code": "NC",
+    "tcode": "NCL",
+    "ncode": "540",
+    "rule": "ISO 3166-2:NC",
+    "zhName": "新喀里多尼亚",
+    "isAlone": "否"
+  },
+  {
+    "enName": "New Zealand",
+    "code": "NZ",
+    "tcode": "NZL",
+    "ncode": "554",
+    "rule": "ISO 3166-2:NZ",
+    "zhName": "新西兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Nicaragua",
+    "code": "NI",
+    "tcode": "NIC",
+    "ncode": "558",
+    "rule": "ISO 3166-2:NI",
+    "zhName": "尼加拉瓜",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Niger",
+    "code": "NE",
+    "tcode": "NER",
+    "ncode": "562",
+    "rule": "ISO 3166-2:NE",
+    "zhName": "尼日尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Nigeria",
+    "code": "NG",
+    "tcode": "NGA",
+    "ncode": "566",
+    "rule": "ISO 3166-2:NG",
+    "zhName": "尼日利亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Niue",
+    "code": "NU",
+    "tcode": "NIU",
+    "ncode": "570",
+    "rule": "ISO 3166-2:NU",
+    "zhName": "纽埃",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Norfolk Island",
+    "code": "NF",
+    "tcode": "NFK",
+    "ncode": "574",
+    "rule": "ISO 3166-2:NF",
+    "zhName": "诺福克岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "North Macedonia",
+    "code": "MK",
+    "tcode": "MKD",
+    "ncode": "807",
+    "rule": "ISO 3166-2:MK",
+    "zhName": "北马其顿",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Northern Mariana Islands",
+    "code": "MP",
+    "tcode": "MNP",
+    "ncode": "580",
+    "rule": "ISO 3166-2:MP",
+    "zhName": "北马里亚纳群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Norway",
+    "code": "NO",
+    "tcode": "NOR",
+    "ncode": "578",
+    "rule": "ISO 3166-2:NO",
+    "zhName": "挪威",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Oman",
+    "code": "OM",
+    "tcode": "OMN",
+    "ncode": "512",
+    "rule": "ISO 3166-2:OM",
+    "zhName": "阿曼",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Pakistan",
+    "code": "PK",
+    "tcode": "PAK",
+    "ncode": "586",
+    "rule": "ISO 3166-2:PK",
+    "zhName": "巴基斯坦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Palau",
+    "code": "PW",
+    "tcode": "PLW",
+    "ncode": "585",
+    "rule": "ISO 3166-2:PW",
+    "zhName": "帕劳",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Palestine, State of",
+    "code": "PS",
+    "tcode": "PSE",
+    "ncode": "275",
+    "rule": "ISO 3166-2:PS",
+    "zhName": "巴勒斯坦",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Panama",
+    "code": "PA",
+    "tcode": "PAN",
+    "ncode": "591",
+    "rule": "ISO 3166-2:PA",
+    "zhName": "巴拿马",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Papua New Guinea",
+    "code": "PG",
+    "tcode": "PNG",
+    "ncode": "598",
+    "rule": "ISO 3166-2:PG",
+    "zhName": "巴布亚新几内亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Paraguay",
+    "code": "PY",
+    "tcode": "PRY",
+    "ncode": "600",
+    "rule": "ISO 3166-2:PY",
+    "zhName": "巴拉圭",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Peru",
+    "code": "PE",
+    "tcode": "PER",
+    "ncode": "604",
+    "rule": "ISO 3166-2:PE",
+    "zhName": "秘鲁",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Philippines",
+    "code": "PH",
+    "tcode": "PHL",
+    "ncode": "608",
+    "rule": "ISO 3166-2:PH",
+    "zhName": "菲律宾",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Pitcairn",
+    "code": "PN",
+    "tcode": "PCN",
+    "ncode": "612",
+    "rule": "ISO 3166-2:PN",
+    "zhName": "皮特凯恩群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Poland",
+    "code": "PL",
+    "tcode": "POL",
+    "ncode": "616",
+    "rule": "ISO 3166-2:PL",
+    "zhName": "波兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Portugal",
+    "code": "PT",
+    "tcode": "PRT",
+    "ncode": "620",
+    "rule": "ISO 3166-2:PT",
+    "zhName": "葡萄牙",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Puerto Rico",
+    "code": "PR",
+    "tcode": "PRI",
+    "ncode": "630",
+    "rule": "ISO 3166-2:PR",
+    "zhName": "波多黎各",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Qatar",
+    "code": "QA",
+    "tcode": "QAT",
+    "ncode": "634",
+    "rule": "ISO 3166-2:QA",
+    "zhName": "卡塔尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Réunion",
+    "code": "RE",
+    "tcode": "REU",
+    "ncode": "638",
+    "rule": "ISO 3166-2:RE",
+    "zhName": "留尼汪",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Romania",
+    "code": "RO",
+    "tcode": "ROU",
+    "ncode": "642",
+    "rule": "ISO 3166-2:RO",
+    "zhName": "罗马尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Russian Federation",
+    "code": "RU",
+    "tcode": "RUS",
+    "ncode": "643",
+    "rule": "ISO 3166-2:RU",
+    "zhName": "俄罗斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Rwanda",
+    "code": "RW",
+    "tcode": "RWA",
+    "ncode": "646",
+    "rule": "ISO 3166-2:RW",
+    "zhName": "卢旺达",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Saint Barthélemy",
+    "code": "BL",
+    "tcode": "BLM",
+    "ncode": "652",
+    "rule": "ISO 3166-2:BL",
+    "zhName": "圣巴泰勒米",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "SH",
+    "tcode": "SHN",
+    "ncode": "654",
+    "rule": "ISO 3166-2:SH",
+    "zhName": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Saint Kitts and Nevis",
+    "code": "KN",
+    "tcode": "KNA",
+    "ncode": "659",
+    "rule": "ISO 3166-2:KN",
+    "zhName": "圣基茨和尼维斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Saint Lucia",
+    "code": "LC",
+    "tcode": "LCA",
+    "ncode": "662",
+    "rule": "ISO 3166-2:LC",
+    "zhName": "圣卢西亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Saint Martin (French part)",
+    "code": "MF",
+    "tcode": "MAF",
+    "ncode": "663",
+    "rule": "ISO 3166-2:MF",
+    "zhName": "法属圣马丁",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "tcode": "SPM",
+    "ncode": "666",
+    "rule": "ISO 3166-2:PM",
+    "zhName": "圣皮埃尔和密克隆",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "tcode": "VCT",
+    "ncode": "670",
+    "rule": "ISO 3166-2:VC",
+    "zhName": "圣文森特和格林纳丁斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Samoa",
+    "code": "WS",
+    "tcode": "WSM",
+    "ncode": "882",
+    "rule": "ISO 3166-2:WS",
+    "zhName": "萨摩亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "San Marino",
+    "code": "SM",
+    "tcode": "SMR",
+    "ncode": "674",
+    "rule": "ISO 3166-2:SM",
+    "zhName": "圣马力诺",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Sao Tome and Principe",
+    "code": "ST",
+    "tcode": "STP",
+    "ncode": "678",
+    "rule": "ISO 3166-2:ST",
+    "zhName": "圣多美和普林西比",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Saudi Arabia",
+    "code": "SA",
+    "tcode": "SAU",
+    "ncode": "682",
+    "rule": "ISO 3166-2:SA",
+    "zhName": "沙特阿拉伯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Senegal",
+    "code": "SN",
+    "tcode": "SEN",
+    "ncode": "686",
+    "rule": "ISO 3166-2:SN",
+    "zhName": "塞内加尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Serbia",
+    "code": "RS",
+    "tcode": "SRB",
+    "ncode": "688",
+    "rule": "ISO 3166-2:RS",
+    "zhName": "塞尔维亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Seychelles",
+    "code": "SC",
+    "tcode": "SYC",
+    "ncode": "690",
+    "rule": "ISO 3166-2:SC",
+    "zhName": "塞舌尔",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Sierra Leone",
+    "code": "SL",
+    "tcode": "SLE",
+    "ncode": "694",
+    "rule": "ISO 3166-2:SL",
+    "zhName": "塞拉利昂",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Singapore",
+    "code": "SG",
+    "tcode": "SGP",
+    "ncode": "702",
+    "rule": "ISO 3166-2:SG",
+    "zhName": "新加坡",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Sint Maarten (Dutch part)",
+    "code": "SX",
+    "tcode": "SXM",
+    "ncode": "534",
+    "rule": "ISO 3166-2:SX",
+    "zhName": "荷属圣马丁",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Slovakia",
+    "code": "SK",
+    "tcode": "SVK",
+    "ncode": "703",
+    "rule": "ISO 3166-2:SK",
+    "zhName": "斯洛伐克",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Slovenia",
+    "code": "SI",
+    "tcode": "SVN",
+    "ncode": "705",
+    "rule": "ISO 3166-2:SI",
+    "zhName": "斯洛文尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Solomon Islands",
+    "code": "SB",
+    "tcode": "SLB",
+    "ncode": "090",
+    "rule": "ISO 3166-2:SB",
+    "zhName": "所罗门群岛",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Somalia",
+    "code": "SO",
+    "tcode": "SOM",
+    "ncode": "706",
+    "rule": "ISO 3166-2:SO",
+    "zhName": "索马里",
+    "isAlone": "是"
+  },
+  {
+    "enName": "South Africa",
+    "code": "ZA",
+    "tcode": "ZAF",
+    "ncode": "710",
+    "rule": "ISO 3166-2:ZA",
+    "zhName": "南非",
+    "isAlone": "是"
+  },
+  {
+    "enName": "South Georgia and the South Sandwich Islands",
+    "code": "GS",
+    "tcode": "SGS",
+    "ncode": "239",
+    "rule": "ISO 3166-2:GS",
+    "zhName": "南乔治亚和南桑威奇群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "South Sudan",
+    "code": "SS",
+    "tcode": "SSD",
+    "ncode": "728",
+    "rule": "ISO 3166-2:SS",
+    "zhName": "南苏丹",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Spain",
+    "code": "ES",
+    "tcode": "ESP",
+    "ncode": "724",
+    "rule": "ISO 3166-2:ES",
+    "zhName": "西班牙",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Sri Lanka",
+    "code": "LK",
+    "tcode": "LKA",
+    "ncode": "144",
+    "rule": "ISO 3166-2:LK",
+    "zhName": "斯里兰卡",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Sudan",
+    "code": "SD",
+    "tcode": "SDN",
+    "ncode": "729",
+    "rule": "ISO 3166-2:SD",
+    "zhName": "苏丹",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Suriname",
+    "code": "SR",
+    "tcode": "SUR",
+    "ncode": "740",
+    "rule": "ISO 3166-2:SR",
+    "zhName": "苏里南",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "tcode": "SJM",
+    "ncode": "744",
+    "rule": "ISO 3166-2:SJ",
+    "zhName": "斯瓦尔巴和扬马延",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Sweden",
+    "code": "SE",
+    "tcode": "SWE",
+    "ncode": "752",
+    "rule": "ISO 3166-2:SE",
+    "zhName": "瑞典",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Switzerland",
+    "code": "CH",
+    "tcode": "CHE",
+    "ncode": "756",
+    "rule": "ISO 3166-2:CH",
+    "zhName": "瑞士",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Syrian Arab Republic",
+    "code": "SY",
+    "tcode": "SYR",
+    "ncode": "760",
+    "rule": "ISO 3166-2:SY",
+    "zhName": "叙利亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Taiwan, Province of China[note 1]",
+    "code": "TW",
+    "tcode": "TWN",
+    "ncode": "158",
+    "rule": "ISO 3166-2:TW",
+    "zhName": "中国台湾省",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Tajikistan",
+    "code": "TJ",
+    "tcode": "TJK",
+    "ncode": "762",
+    "rule": "ISO 3166-2:TJ",
+    "zhName": "塔吉克斯坦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Tanzania, United Republic of",
+    "code": "TZ",
+    "tcode": "TZA",
+    "ncode": "834",
+    "rule": "ISO 3166-2:TZ",
+    "zhName": "坦桑尼亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Thailand",
+    "code": "TH",
+    "tcode": "THA",
+    "ncode": "764",
+    "rule": "ISO 3166-2:TH",
+    "zhName": "泰国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Timor-Leste",
+    "code": "TL",
+    "tcode": "TLS",
+    "ncode": "626",
+    "rule": "ISO 3166-2:TL",
+    "zhName": "东帝汶",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Togo",
+    "code": "TG",
+    "tcode": "TGO",
+    "ncode": "768",
+    "rule": "ISO 3166-2:TG",
+    "zhName": "多哥",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Tokelau",
+    "code": "TK",
+    "tcode": "TKL",
+    "ncode": "772",
+    "rule": "ISO 3166-2:TK",
+    "zhName": "托克劳",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Tonga",
+    "code": "TO",
+    "tcode": "TON",
+    "ncode": "776",
+    "rule": "ISO 3166-2:TO",
+    "zhName": "汤加",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Trinidad and Tobago",
+    "code": "TT",
+    "tcode": "TTO",
+    "ncode": "780",
+    "rule": "ISO 3166-2:TT",
+    "zhName": "特立尼达和多巴哥",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Tunisia",
+    "code": "TN",
+    "tcode": "TUN",
+    "ncode": "788",
+    "rule": "ISO 3166-2:TN",
+    "zhName": "突尼斯",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Turkey",
+    "code": "TR",
+    "tcode": "TUR",
+    "ncode": "792",
+    "rule": "ISO 3166-2:TR",
+    "zhName": "土耳其",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Turkmenistan",
+    "code": "TM",
+    "tcode": "TKM",
+    "ncode": "795",
+    "rule": "ISO 3166-2:TM",
+    "zhName": "土库曼斯坦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Turks and Caicos Islands",
+    "code": "TC",
+    "tcode": "TCA",
+    "ncode": "796",
+    "rule": "ISO 3166-2:TC",
+    "zhName": "特克斯和凯科斯群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Tuvalu",
+    "code": "TV",
+    "tcode": "TUV",
+    "ncode": "798",
+    "rule": "ISO 3166-2:TV",
+    "zhName": "图瓦卢",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Uganda",
+    "code": "UG",
+    "tcode": "UGA",
+    "ncode": "800",
+    "rule": "ISO 3166-2:UG",
+    "zhName": "乌干达",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Ukraine",
+    "code": "UA",
+    "tcode": "UKR",
+    "ncode": "804",
+    "rule": "ISO 3166-2:UA",
+    "zhName": "乌克兰",
+    "isAlone": "是"
+  },
+  {
+    "enName": "United Arab Emirates",
+    "code": "AE",
+    "tcode": "ARE",
+    "ncode": "784",
+    "rule": "ISO 3166-2:AE",
+    "zhName": "阿联酋",
+    "isAlone": "是"
+  },
+  {
+    "enName": "United Kingdom of Great Britain and Northern Ireland",
+    "code": "GB",
+    "tcode": "GBR",
+    "ncode": "826",
+    "rule": "ISO 3166-2:GB",
+    "zhName": "英国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "United States of America",
+    "code": "US",
+    "tcode": "USA",
+    "ncode": "840",
+    "rule": "ISO 3166-2:US",
+    "zhName": "美国",
+    "isAlone": "是"
+  },
+  {
+    "enName": "United States Minor Outlying Islands",
+    "code": "UM",
+    "tcode": "UMI",
+    "ncode": "581",
+    "rule": "ISO 3166-2:UM",
+    "zhName": "美国本土外小岛屿",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Uruguay",
+    "code": "UY",
+    "tcode": "URY",
+    "ncode": "858",
+    "rule": "ISO 3166-2:UY",
+    "zhName": "乌拉圭",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Uzbekistan",
+    "code": "UZ",
+    "tcode": "UZB",
+    "ncode": "860",
+    "rule": "ISO 3166-2:UZ",
+    "zhName": "乌兹别克斯坦",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Vanuatu",
+    "code": "VU",
+    "tcode": "VUT",
+    "ncode": "548",
+    "rule": "ISO 3166-2:VU",
+    "zhName": "瓦努阿图",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Venezuela (Bolivarian Republic of)",
+    "code": "VE",
+    "tcode": "VEN",
+    "ncode": "862",
+    "rule": "ISO 3166-2:VE",
+    "zhName": "委内瑞拉",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Viet Nam",
+    "code": "VN",
+    "tcode": "VNM",
+    "ncode": "704",
+    "rule": "ISO 3166-2:VN",
+    "zhName": "越南",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Virgin Islands (British)",
+    "code": "VG",
+    "tcode": "VGB",
+    "ncode": "092",
+    "rule": "ISO 3166-2:VG",
+    "zhName": "英属维尔京群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Virgin Islands (U.S.)",
+    "code": "VI",
+    "tcode": "VIR",
+    "ncode": "850",
+    "rule": "ISO 3166-2:VI",
+    "zhName": "美属维尔京群岛",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Wallis and Futuna",
+    "code": "WF",
+    "tcode": "WLF",
+    "ncode": "876",
+    "rule": "ISO 3166-2:WF",
+    "zhName": "瓦利斯和富图纳",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Western Sahara",
+    "code": "EH",
+    "tcode": "ESH",
+    "ncode": "732",
+    "rule": "ISO 3166-2:EH",
+    "zhName": "西撒哈拉",
+    "isAlone": "否"
+  },
+  {
+    "enName": "Yemen",
+    "code": "YE",
+    "tcode": "YEM",
+    "ncode": "887",
+    "rule": "ISO 3166-2:YE",
+    "zhName": "也门",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Zambia",
+    "code": "ZM",
+    "tcode": "ZMB",
+    "ncode": "894",
+    "rule": "ISO 3166-2:ZM",
+    "zhName": "赞比亚",
+    "isAlone": "是"
+  },
+  {
+    "enName": "Zimbabwe",
+    "code": "ZW",
+    "tcode": "ZWE",
+    "ncode": "716",
+    "rule": "ISO 3166-2:ZW",
+    "zhName": "津巴布韦",
+    "isAlone": "是"
+  }
+]
