@@ -92,7 +92,7 @@ function App() {
             padding: "8px 16px",
           }}
         >
-          <SearchArea style={{ border: "1px solid", height: "450px" }} />
+          <SearchArea style={{ height: size.height - 440 - 200 }} />
           <Card
             style={{
               width: "100%",
