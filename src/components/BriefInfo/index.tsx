@@ -20,7 +20,12 @@ function BriefInfo({ areaInfo }: Props) {
           <Divider margin={"8px 0px"} />
           <Flex justify={"space-between"} align="center">
             <Text>现存确诊人数:</Text>
-            <Text>{area.currentConfirmedCount}人</Text>
+            <Flex>
+              <Text color={"#1890ff"} fontWeight={"bold"}>
+                {area.currentConfirmedCount}
+              </Text>
+              <Text>人</Text>
+            </Flex>
           </Flex>
           <Divider margin={"8px 0px"} />
           <Flex justify={"space-between"} align="center">
@@ -30,17 +35,29 @@ function BriefInfo({ areaInfo }: Props) {
           <Divider margin={"8px 0px"} />
           <Flex justify={"space-between"} align="center">
             <Text>疑似感染人数:</Text>
-            <Text>{area.suspectedCount}人</Text>
+            <Flex>
+              <Text color={"orange"}>{area.suspectedCount}</Text>人
+            </Flex>
           </Flex>
           <Divider margin={"8px 0px"} />
           <Flex justify={"space-between"} align="center">
             <Text>治愈人数:</Text>
-            <Text>{area.curedCount}人</Text>
+            <Flex>
+              <Text color={"pink"} fontWeight={"bold"}>
+                {area.curedCount}
+              </Text>
+              人
+            </Flex>
           </Flex>
           <Divider margin={"8px 0px"} />
           <Flex justify={"space-between"} align="center">
             <Text>死亡人数:</Text>
-            <Text>{area.deadCount}人</Text>
+            <Flex>
+              <Text color={"red"} fontWeight={"bold"}>
+                {area.deadCount}
+              </Text>
+              人
+            </Flex>
           </Flex>
           <Divider margin={"8px 0px"} />
           <Flex justify={"space-between"} align="center">
