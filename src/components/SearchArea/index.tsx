@@ -1,10 +1,23 @@
-import { Flex, Text } from "@chakra-ui/react";
+import {
+  Flex,
+  IconButton,
+  Input,
+  InputGroup,
+  InputRightAddon,
+  Text,
+} from "@chakra-ui/react";
 import React, { HTMLAttributes } from "react";
+import { BsSearch } from "react-icons/bs";
 
 function SearchArea({ ...props }: HTMLAttributes<HTMLDivElement>) {
   return (
     <Flex {...props}>
-      <Text fontSize={"2rem"}>暂定搜索区域</Text>
+      <InputGroup>
+        <Input placeholder="请输入地区名称" />
+        <InputRightAddon cursor={"pointer"} _hover={{ color: "#1890ff" }}>
+          <BsSearch />
+        </InputRightAddon>
+      </InputGroup>
     </Flex>
   );
 }
