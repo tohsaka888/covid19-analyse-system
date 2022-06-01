@@ -2,7 +2,7 @@ import { EChartOption, EChartsResponsiveOption } from "echarts";
 import { ConfigProps } from "./type";
 
 export const chinaMapConfig = (configData: ConfigProps): EChartOption | EChartsResponsiveOption => {
-  const { data, title, theme = 'light' } = configData;
+  const { data, title, theme } = configData;
 
   return {
     title: {
@@ -71,14 +71,19 @@ export const chinaMapConfig = (configData: ConfigProps): EChartOption | EChartsR
         position: [1, 100], // 相对的百分比
         fontSize: 12,
         offset: [2, 0],
-        align: "center"
+        align: "center",
+        color: '#fff',
+        labelStyle: {
+          color: '#fff',
+        },
       },
       itemStyle: {
-        areaColor: theme === 'light' ? '#1890ff' : '#fff' // 地图图形颜色
+        areaColor: '#1890ff', // 地图图形颜色
+        color: '#fff',
       },
       type: "map",
       roam: true,
-      map: "china",
+      map: "China",
       zoom: 1.2, // 当前视角的缩放比例
       scaleLimit: {
         max: 100,
