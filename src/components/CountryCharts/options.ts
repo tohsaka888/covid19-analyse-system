@@ -4,7 +4,7 @@ export const option: EChartsReactProps["option"] = {
   title: {
     text: '当前选择区域疫情状况',
     subtext: '内容来源--丁香网',
-    x: 'center',
+    x: 'right',
     textStyle: {
       color: '#fff'
     }
