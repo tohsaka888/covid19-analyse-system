@@ -1,8 +1,9 @@
 import { Menu, MenuButton, MenuList, MenuItem } from "@chakra-ui/react";
-import React, { HTMLAttributes, useState } from "react";
+import React, { HTMLAttributes, useContext } from "react";
+import { ModeContext } from "../../Context/ModeContext";
 
 function MapSelector({ ...props }: HTMLAttributes<HTMLDivElement>) {
-  const [current, setCurrent] = useState<string>("词云");
+  const { setMode, mode } = useContext(ModeContext)!
   return (
     <Menu {...props}>
       <MenuButton
@@ -16,11 +17,11 @@ function MapSelector({ ...props }: HTMLAttributes<HTMLDivElement>) {
         color="#fff"
         padding={'5px 12px'}
       >
-        {current}
+        {mode}
       </MenuButton>
       <MenuList>
-        <MenuItem onClick={() => setCurrent("词云")}>词云</MenuItem>
-        <MenuItem onClick={() => setCurrent("中国地图")}>中国地图</MenuItem>
+        <MenuItem onClick={() => setMode("词云")}>词云</MenuItem>
+        <MenuItem onClick={() => setMode("中国地图")}>中国地图</MenuItem>
       </MenuList>
     </Menu>
   );
