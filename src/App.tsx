@@ -4,7 +4,7 @@ import Container from "tohsaka888-word-cloud";
 import font from "./assets/font.ttf";
 import Header from "./components/Header";
 import { LangContext } from "./Context/LangContext";
-import { useColorMode } from "@chakra-ui/react";
+import { Box, useColorMode } from "@chakra-ui/react";
 import useScreenSize from "./components/hooks/useScreenSize/useScreenSize";
 import Sider from "./components/Sider";
 import Content from "./components/Content";
@@ -15,6 +15,7 @@ import CountryInfo from "./components/CountryInfo";
 import BriefInfo from "./components/BriefInfo";
 import CountryCharts from "./components/CountryCharts";
 import SearchArea from "./components/SearchArea";
+import MapSelector from "./components/MapSelector";
 
 type ResponseData = { results: string[]; success: boolean };
 
@@ -86,9 +87,8 @@ function App() {
           style={{
             height: "100%",
             width: "25vw",
-            borderRight: `3px solid ${
-              colorMode === "light" ? "#f9f9f9" : "#1b2d50"
-            }`,
+            borderRight: `3px solid ${colorMode === "light" ? "#f9f9f9" : "#1b2d50"
+              }`,
             padding: "8px 16px",
           }}
         >
@@ -107,29 +107,33 @@ function App() {
             <BriefInfo areaInfo={areaInfo} />
           </Card>
         </Sider>
-        <Container
-          items={province}
-          type={"text"}
-          radius={20}
-          width={"50vw"}
-          height={"100%"}
-          color={colorMode === "light" ? "#666666" : "#fff"}
-          fontSize={1.2}
-          font={font}
-          clickEvent={(e, item) => {
-            console.log(item);
-            setArea(item);
-          }}
+        <Content>
+          <Box pos={'absolute'} top={'30px'} right={'30px'} zIndex={100} >
+            <MapSelector />
+          </Box>
+          <Container
+            items={province}
+            type={"text"}
+            radius={20}
+            width={"50vw"}
+            height={"100%"}
+            color={colorMode === "light" ? "#666666" : "#fff"}
+            fontSize={1.2}
+            font={font}
+            clickEvent={(e, item) => {
+              console.log(item);
+              setArea(item);
+            }}
           // style={{ zIndex: -1 }}
-        />
+          />
+        </Content>
         <Sider
           position="right"
           style={{
             height: "100%",
             width: "25vw",
-            borderLeft: `3px solid ${
-              colorMode === "light" ? "#f9f9f9" : "#1b2d50"
-            }`,
+            borderLeft: `3px solid ${colorMode === "light" ? "#f9f9f9" : "#1b2d50"
+              }`,
             padding: "8px 16px",
           }}
         >
