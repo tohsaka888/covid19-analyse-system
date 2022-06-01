@@ -1,8 +1,8 @@
-import contry from './country.json'
+import country from './country1.json'
 
 export const searchCode = (name: string) => {
   let code = ''
-  contry.forEach(item => {
+  country.forEach(item => {
     if (item.zhName === name || item.enName === name) {
       code = item.code
     }
