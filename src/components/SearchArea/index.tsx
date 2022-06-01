@@ -1,11 +1,4 @@
-import {
-  Flex,
-  IconButton,
-  Input,
-  InputGroup,
-  InputRightAddon,
-  Text,
-} from "@chakra-ui/react";
+import { Flex, Input, InputGroup, InputRightAddon } from "@chakra-ui/react";
 import React, { HTMLAttributes } from "react";
 import { BsSearch } from "react-icons/bs";
 
