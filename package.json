@@ -28,7 +28,7 @@
     "react-spring": "9.4.5",
     "styled-components": "5.3.5",
     "tohsaka888-word-cloud": "0.1.2",
-    "typescript": "4.7.2"
+    "typescript": "4.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
