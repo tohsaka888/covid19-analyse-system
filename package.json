@@ -55,6 +55,6 @@
     ]
   },
   "devDependencies": {
-    "flag-icons": "6.6.3"
+    "flag-icons": "6.15.0"
   }
 }
