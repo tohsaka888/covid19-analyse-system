@@ -10,7 +10,7 @@
     "@testing-library/react": "13.3.0",
     "@testing-library/user-event": "13.5.0",
     "@types/d3": "7.4.0",
-    "@types/echarts": "4.9.15",
+    "@types/echarts": "4.9.22",
     "@types/jest": "27.5.2",
     "@types/node": "16.11.47",
     "@types/react": "18.0.9",
